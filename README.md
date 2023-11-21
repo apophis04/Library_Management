@@ -1,5 +1,18 @@
 # Library Management System
 
+**Support My Work**
+
+Hey there! 👋
+
+I'm an independent creator working on various projects, from open-source software to content creation. If you find my work useful or enjoy what I do, consider supporting me with a virtual coffee!
+Your support helps keep me fueled and motivated to continue creating and sharing. It's a small gesture that goes a long way in making a difference.
+
+Thank you for being a part of my journey! ☕
+
+
+--> [**Buy Me a Coffee ☕**](https://www.buymeacoffee.com/apophis04)
+
+
 This simple library management system is designed in C and includes basic functionalities for managing books and user accounts. Below is a brief overview of the key features and structures in the program:
 
 ## Structures
@@ -64,5 +77,3 @@ Feel free to customize the code according to your specific requirements. Enjoy m
 **Note:** Ensure that the "library.csv" file is present or created in the same directory as the executable for proper functionality.
 
 ---
-
-Feel free to modify and improve the readme according to your preferences. Let me know if you need any specific modifications or additional features in the program!
